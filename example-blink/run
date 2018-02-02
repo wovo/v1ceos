@@ -1,2 +1,2 @@
-c++ main.cpp -I../mmapgpio ../mmapgpio/mmapgpio.cpp
+c++ main.cpp -I../libs ../libs/mmapgpio.cpp ../libs/bcm2835.c
 ./aout

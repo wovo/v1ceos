@@ -1,6 +1,7 @@
 #include "mmapgpio.hpp"
+#include "bcm2835.h"
 
-const in led_pin = 16;
+const int led_pin = 16;
 
 int main(void){
    mmapGpio rpiGpio; 

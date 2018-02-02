@@ -1,0 +1,2 @@
+c++ main.cpp -I../mmapgpio ../mmapgpio/mmapgpio.cpp
+./aout
